@@ -1,0 +1,23 @@
+# Binarios
+monitor_sonolencia
+*.out
+*.o
+*.a
+*.so
+
+# Build
+build/
+cmake-build-*/
+
+# OpenCV / logs temporarios
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
