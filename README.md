@@ -5,7 +5,7 @@ Projeto de Sistemas Operacionais Embarcados, cuja finalidade é implementar um d
 - Raspberry Pi 2/3
 - Câmera (CSI ou USB)
 - Buzzer Passivo KY-006 (Saída PWM - GPIO 18)
-- LEDs de Redundância (GPIOs 17,22 e 27)
+- LEDs de Redundância (GPIOs 17, 22 e 27)
 
 ## 📌 Pinagem (GPIO)
 | Componente | Pino BCM | Função |
